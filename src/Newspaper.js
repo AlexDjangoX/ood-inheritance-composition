@@ -1,4 +1,4 @@
-const LoanItems = require("./loanItems");
+const LoanItems = require("./LoanItems");
 
 class Newspaper extends LoanItems {
   checkIn() {
